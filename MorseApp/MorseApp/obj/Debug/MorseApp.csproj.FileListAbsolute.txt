@@ -1,0 +1,10 @@
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\bin\Debug\MorseApp.exe.config
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\bin\Debug\MorseApp.exe
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\bin\Debug\MorseApp.pdb
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\obj\Debug\MorseApp.csprojResolveAssemblyReference.cache
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\obj\Debug\MorseApp.Form1.resources
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\obj\Debug\MorseApp.Properties.Resources.resources
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\obj\Debug\MorseApp.csproj.GenerateResource.Cache
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\obj\Debug\MorseApp.csproj.CoreCompileInputs.cache
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\obj\Debug\MorseApp.exe
+C:\Users\GrandDuke\Desktop\MorseApp\MorseApp\obj\Debug\MorseApp.pdb
